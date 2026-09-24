@@ -1,0 +1,6 @@
+{
+  "name": "性格特质测评小程序",
+  "description": "基于东方星曜与性格倾向测试的性格特质测评小程序，包含信息输入、8道自测答题、自洽度解析与全景深度性格报告展示",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
